@@ -1,0 +1,8 @@
+numpy
+scipy
+sympy
+pandas
+matplotlib
+plotly
+nbformat
+jupyter
